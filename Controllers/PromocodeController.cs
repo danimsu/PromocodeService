@@ -23,8 +23,8 @@ namespace PromocodeService.Controllers
             return new ObjectResult(await _repo.GetAllPromocodes(id));
         }
 
-        //GET: api/promocodes/1
-        [HttpGet("{id}")]
+        // GET: api/promocodes/1
+        [HttpGet("{code}")]
         public async Task<ActionResult<Promocode>> Get(string code)
         {
             var promocode = await _repo.GetPromocode(code);

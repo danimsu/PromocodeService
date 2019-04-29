@@ -12,3 +12,4 @@ d:\Users\tuleda\source\repos\PromocodeService\PromocodeService\obj\Debug\netcore
 d:\Users\tuleda\source\repos\PromocodeService\PromocodeService\obj\Debug\netcoreapp2.1\PromocodeService.RazorTargetAssemblyInfo.cache
 d:\Users\tuleda\source\repos\PromocodeService\PromocodeService\obj\Debug\netcoreapp2.1\PromocodeService.dll
 d:\Users\tuleda\source\repos\PromocodeService\PromocodeService\obj\Debug\netcoreapp2.1\PromocodeService.pdb
+d:\Users\tuleda\source\repos\PromocodeService\PromocodeService\obj\Debug\netcoreapp2.1\PromocodeService.csprojAssemblyReference.cache
