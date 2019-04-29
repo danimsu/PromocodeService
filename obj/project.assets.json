@@ -13628,11 +13628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Users\\tuleda\\source\\repos\\PromocodeService\\PromocodeService\\PromocodeService.csproj",
+      "projectUniqueName": "D:\\Users\\tuleda\\Documents\\Visual Studio 2017\\PromocodeService\\PromocodeService\\PromocodeService.csproj",
       "projectName": "PromocodeService",
-      "projectPath": "d:\\Users\\tuleda\\source\\repos\\PromocodeService\\PromocodeService\\PromocodeService.csproj",
+      "projectPath": "D:\\Users\\tuleda\\Documents\\Visual Studio 2017\\PromocodeService\\PromocodeService\\PromocodeService.csproj",
       "packagesPath": "d:\\Users\\tuleda\\.nuget\\packages\\",
-      "outputPath": "d:\\Users\\tuleda\\source\\repos\\PromocodeService\\PromocodeService\\obj\\",
+      "outputPath": "D:\\Users\\tuleda\\Documents\\Visual Studio 2017\\PromocodeService\\PromocodeService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
